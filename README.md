@@ -2,7 +2,7 @@
   <img src="https://te.legra.ph/file/d3495b74a8b415e099c87.jpg">
 </p>
 
-## Gabi Braun Robot 
+## Nino nakano Bot 💌
 
 ### Telegram Group
 <p align="left">
