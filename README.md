@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://telegra.ph/file/0ed48df18f4175d61b5d8.jpg">
+  <img src="https://te.legra.ph/file/d3495b74a8b415e099c87.jpg">
 </p>
 
 ## Gabi Braun Robot 
 
 ### Telegram Group
 <p align="left">
-<a href="https://t.me/GabiHelpSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/nino_support_group" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/Gabi_Braun_Robot" alt="GabiBraun"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-GabiBraun-blue" /> </a>
-* Log Channel: <a  href="https://t.me/Gabi_Support_Log" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-gabibraun%20Log%20Channel-9cf" /> </a>
+* Bot Link:  <a href="http://t.me/kawaiii_nino_bot" alt="nino-nakano"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-GabiBraun-blue" /> </a>
+* Log Channel: <a  href="https://t.me/kawaii_nino_updates" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-gabibraun%20Log%20Channel-9cf" /> </a>
 
 ### Creating your own modules.
 
@@ -57,12 +57,12 @@ For starters click on this button
 
 ## Our Telegram Channel and Group
 
-* [Support](https://telegram.dog/GabiHelpSupport)
-* [Discussion](https://telegram.dog/helpcenterbot1)
-* [Second Group](https://telegram.dog/Ast_Official_Channel)
+* [Support](https://t.me/nino_support_group)
+* [Discussion](https://t.me/kawaii_nino_updates)
+* [Second Group](https://t.me/animenikko)
 
 ## Credits,  
-*   [The Ghost Hunter](https://telegram.dog/The_Ghost_Hunter)
+*   [orekki sama](https://telegram.dog/orekki_sama)
 
 ## Bot Owner
 *  [Falco Grice](https://telegram.dog/Official_Flying_Titan)
