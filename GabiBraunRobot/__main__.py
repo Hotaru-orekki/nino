@@ -59,7 +59,7 @@ You can find my list of available commands with /help.
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
+Hey there! My name is *{nino}*.
 I'm a Cute girl and help admins manage their groups with Some Powerful features! Have a look at the following for an idea of some of \
 the things I can help you with.
 
