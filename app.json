@@ -1,5 +1,5 @@
 {
-      "name": "Gabi Braun Robot",
+      "name": "nakano nino bot 💌",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "Gabi"
       ],   
-  "logo":    "https://telegra.ph/file/a612794ea868bb4fbcc5e.jpg",
+  "logo":    "https://te.legra.ph/file/64c3a08fc0828210d8819.jpg",
  "repository": "https://github.com/HuntingBots/GabiBraunRobot",
    "addons": [
       {
